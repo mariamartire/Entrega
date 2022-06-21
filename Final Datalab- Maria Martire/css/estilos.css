@@ -1,0 +1,72 @@
+@font-face {
+    font-family:'Poppins', sans-serif; 
+    src: url(../Tipografias/Poppins-Regular.ttf);
+font-weight: 500;
+}
+
+@font-face {
+    font-family: 'lora', serif;
+    src: url(../Tipografias/Lora-Regular.ttf);
+    font-weight: 400;
+
+}
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30%;
+    color:#000000;
+    background-color: whitesmoke;
+    background-size: cover;
+}
+    
+
+h1{
+    font-weight: 500;
+    font-size: 8.75em;
+    color:#000000;
+    margin-left: 50%;
+    margin-bottom: 25%;
+    margin-top: 30%;
+    line-height: 110%;
+
+}
+
+img{
+    max-height: 40%;
+    max-width: 100%;
+    width: 40vw;
+    margin: 10%;
+    margin-top: -51%;
+    margin-left: 10%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+
+a{
+    text-decoration: none;
+    font-family: 'lora', serif;
+    font-size: 1.66em;
+    font-weight: 400;
+    color:#000000;
+
+    margin-left: 25%;
+    border: 1px solid;
+    padding: 0.3em;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    border-width: 1px;
+    border-style: inset;
+    border-radius: 30px;
+    
+}
+
+.columnainstagram{
+padding-left: 95em;
+margin-top: 5%;
+}
+.columnaworks{
+margin-top: -1.8em;
+}
